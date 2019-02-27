@@ -39,4 +39,4 @@ MirrorURL: http://us.archive.ubuntu.com/ubuntu
 
 %labels
     Author Novikov Maksim
-    Verson v0.0.1
+    Verson v0.0.2
